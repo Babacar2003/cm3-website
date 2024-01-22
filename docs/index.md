@@ -1,14 +1,14 @@
 ---
-title: Home Page
+title: Bismillah
 ---
 
-This is the home page of Rahul's CM3 website.
+This is the home page of Babacar's CM3 website.
 
 ## A smaller level Heading
 
 ### And even smaller
 
-Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise. For a new para, you need to hit return at-least twice.
+Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise. For a new **para**, you need to hit return at-least twice.
 
 This is another para.
 
@@ -19,6 +19,7 @@ In this one we show some lists. just start the lista on the next line after hitt
 In this new para we create a numbered list using numbers.
 1. first item
 2. second item
+3. third item
 
 This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
 
