@@ -10,6 +10,9 @@ This is the home page of Babacar's CM3 website.
 
 Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise. For a new **para**, you need to hit return at-least twice.
 
+Here is what I love:
+![Islam](https://islamqa.info/en)
+
 This is another para.
 
 In this one we show some lists. just start the lista on the next line after hitting one return:
