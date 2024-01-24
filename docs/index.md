@@ -40,7 +40,8 @@ Here is an image:
 This page illustrates low code principles. In exchange for giving up pixel-level control of the page you can make web pages easily through a simple text file.
 
 Here is what I love:
-![Islam](https://islamqa.info/en)
+![Islam(https://islamqa.info/en)]
+
 
 
 
